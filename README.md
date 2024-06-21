@@ -23,5 +23,6 @@ User Story #9: My quote machine should fetch the new quote's author when the #ne
 User Story #10: I can tweet the current quote by clicking on the #tweet-quotea element. This a element should include the "twitter.com/intent/tweet" path in its href attribute to tweet the current quote.
 
 User Story #11: The #quote-box wrapper element should be horizontally centered. Please run tests with browser's zoom level at 100% and page maximized.
-
+preview
+![image](https://github.com/labheshjoshi/RandomQuoteMachine/assets/129281226/a72b1eb4-ac74-4cf5-b23e-012386287344)
 
